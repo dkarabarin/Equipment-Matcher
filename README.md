@@ -102,8 +102,8 @@ lighting-matcher/
 │       └── fuzzy.py         # Нечёткое сравнение
 ├── data/
 │   └── КАТАЛОГ_ред_18.03.26.xlsx
-├── uploads/
-├── outputs/
+├── uploads/                  # Результаты
+├── outputs/                  # Входные файлы
 ├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml
