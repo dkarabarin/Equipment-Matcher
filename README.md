@@ -105,8 +105,6 @@ lighting-matcher/
 ├── uploads/                  # Результаты
 ├── outputs/                  # Входные файлы
 ├── requirements.txt
-├── Dockerfile
-├── docker-compose.yml
 └── README.md
 ```
 
